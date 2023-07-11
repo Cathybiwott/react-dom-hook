@@ -1,0 +1,5 @@
+.navbar{
+    display: flex;
+    background-color: green;
+    justify-content: space-evenly;
+}

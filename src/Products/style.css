@@ -1,0 +1,17 @@
+.products{
+    display: grid;
+    flex-wrap: wrap;
+    grid-template-columns: repeat(3,10fr);
+    gap: 10px;
+    margin: 2%;
+}
+.img{
+    height: 50%;
+    width: 85%;
+    border: none;
+}
+.items{
+    border-radius: 5px;
+    border: 1px solid ;
+    margin: 10px;
+}

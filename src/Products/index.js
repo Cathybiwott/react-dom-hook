@@ -31,7 +31,7 @@ const Products = ()=>{
           </Link>
         <div className="products">
         {products.map(item =>(
-          <div  key={item.id}>
+          <div  key={item.id} className="items">
           <img  alt="" src ={item.images[1]} />
           <h3>{item.title}</h3>
           <h3>Ksh {item.price}</h3>
