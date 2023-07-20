@@ -7,7 +7,7 @@
   
   .items {
     padding: 1rem;
-    background-color: #978686;
+    background-color: #a8c66c;
     border-radius: 10px;
     border:1px solid;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -34,7 +34,7 @@
   }
   
   .add {
-    background-color: #5fbd12;
+    background-color: #1b6535;
     color: #fff;
     border: none;
     padding: 0.5rem 1rem;
@@ -51,7 +51,7 @@
   }
   
   .view {
-    background-color: #333;
+    background-color: #1b6535;
     color: #fff;
     border: none;
     padding: 0.5rem 1rem;

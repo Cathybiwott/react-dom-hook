@@ -9,7 +9,7 @@
     align-items: center;
     margin-top: 2rem;
     padding: 1rem;
-    background-color: #b8a6a6;
+    background-color: #a8c66c;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   }
@@ -34,7 +34,7 @@
   p {
     margin: 0.5rem 0;
     font-size: 1.2rem;
-    color: #64c713;
+    color: #e1dd72;
     font-weight: 500;
   }
   
